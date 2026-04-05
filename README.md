@@ -1,13 +1,13 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">💫 Hey, I'm Nisha Meshram 💫</h1>
+<h1 align="center">🌑 Hey, I'm Nisha Meshram 🌑</h1>
 
 <h3 align="center">
 🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+CI/CD;Terraform+%7C+Automation+Expert;Monitoring+%7C+SonarQube+%7C+AWS;Open+to+Work+%7C+Immediate+Joiner&center=true&width=650&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+CI/CD;Terraform+%7C+Automation+Expert;Prometheus+%7C+Grafana+%7C+Monitoring;Open+to+Work+%7C+Immediate+Joiner&center=true&width=650&height=50&color=00F7FF">
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 🔭 Building **end-to-end CI/CD pipelines (GitLab + Jenkins)**
 ☁️ Deploying scalable apps on **AWS (ECS, EKS)**
 🏗 Managing infrastructure using **Terraform (IaC)**
-📊 Monitoring systems with **CloudWatch & SonarQube**
+📊 Monitoring using **Prometheus, Grafana & AWS CloudWatch**
 
 👯 Actively seeking **DevOps Engineer roles (Immediate Joiner)**
-🌱 Currently learning **Advanced Terraform, EKS & Python Automation**
+🌱 Learning **Advanced Terraform, EKS & Python automation**
 ⚡ Transitioned from **Lecturer ➝ DevOps Engineer**
 
 ---
@@ -57,10 +57,12 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/AWS%20CloudWatch-232F3E?style=for-the-badge&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/SonarQube-000000?style=for-the-badge&logo=sonarqube"/>
+<img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=for-the-badge&logo=amazon-ecs"/>
+<img src="https://img.shields.io/badge/AWS%20EKS-232F3E?style=for-the-badge&logo=amazon-eks"/>
 </p>
 
 ---
@@ -70,9 +72,9 @@
 ## ⚡ DevOps Lifecycle I Work With
 
 ```text
-Code → Build → Test → Analyze → Deploy → Monitor
-        |       |        |        |        |
-     GitLab   Jenkins  SonarQube  AWS   CloudWatch
+Code → Build → Test → Analyze → Provision → Deploy → Monitor
+        |       |        |         |          |         |
+     GitLab   Jenkins  SonarQube  Terraform  AWS   Prometheus/Grafana
 ```
 
 ---
@@ -128,11 +130,11 @@ Code → Build → Test → Analyze → Deploy → Monitor
 
 ## 🏆 Achievements
 
-✨ 3+ Years in AWS & DevOps
-✨ Hands-on with Kubernetes (Minikube, Kind, EKS)
-✨ Built real-world CI/CD pipelines
-✨ Strong Linux & Shell scripting skills
-✨ Experience with Monitoring & Automation
+✨ Hands-on with AWS & DevOps
+✨ Strong Kubernetes & CI/CD expertise
+✨ Infrastructure as Code using Terraform
+✨ Monitoring with Prometheus & Grafana
+✨ Real-world deployment experience
 
 ---
 
